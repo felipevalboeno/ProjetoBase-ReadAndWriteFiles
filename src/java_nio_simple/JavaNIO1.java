@@ -14,7 +14,7 @@ public class JavaNIO1 {
             //Lendo o path e convertendo todos os caracteres de uma só vez
             byte[] bytesArquivo = Files.readAllBytes(path);
 
-
+//teste
             // como são bytes, podemos criar uma string agora
             String conteudo = new String(bytesArquivo);
             System.out.println(conteudo);
