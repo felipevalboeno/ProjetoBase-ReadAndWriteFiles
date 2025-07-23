@@ -5,6 +5,11 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.List;
 
+
+/**
+ * @author Felipe Rocha
+ * @apiNote Exemplo básico mas agora usando uma lista para percorrer mais de uma linha no arquivo.
+ */
 public class JavaNIO2 {
     public static void main(String[] args) {
         try{
